@@ -1,2 +1,6 @@
 KBCNMU,
+<<<<<<< HEAD
 Jalgaon
+=======
+Maharashtra
+>>>>>>> afd1612185ffdbf9988bf7c3dab9715e924bc66a
